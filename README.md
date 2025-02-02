@@ -1,0 +1,1 @@
+This repository demonstrates a strange bug encountered with Tailwind CSS where utility classes intermittently fail to apply styles.  The issue is not consistently reproducible, making debugging challenging. The `bug.html` file showcases the problematic code; `bugSolution.html` (if available) presents a potential workaround or solution.
